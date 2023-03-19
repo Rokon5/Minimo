@@ -1,0 +1,25 @@
+psd to html:
+
+fonts:
+
+font-family: 'Playfair Display', serif;
+font-family: 'Ubuntu', sans-serif;
+
+File:
+cross browser support
+ 1. woff 
+ 2. otf
+ 3. ttf
+ eot to ttf converter knowledge
+cross platform support
+
+color:
+black   #000000
+
+ash    #626262
+
+display size for different padding;
+
+xxl xl lg  - (100-120)
+md         - (80-100)
+sm es      - (50-70)
